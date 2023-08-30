@@ -2,4 +2,4 @@
 
 9 superionic SSEs confirmed by AIMD simulations
 
-Each structure has information of composition, xyz coordinate in json format with the step of 100
+Each structure has information of composition, xyz coordinate in json format with the step of 100 during MD simulations for each temperature.
